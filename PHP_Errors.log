@@ -1,0 +1,56 @@
+[20-Jun-2022 02:33:36 Asia/Dhaka] PHP Warning:  Undefined array key "login_name" in C:\xampp\htdocs\canteenbilling\topbar.php on line 23
+[20-Jun-2022 02:33:36 Asia/Dhaka] PHP Warning:  Undefined array key "login_id" in C:\xampp\htdocs\canteenbilling\topbar.php on line 36
+[20-Jun-2022 02:33:36 Asia/Dhaka] PHP Warning:  Undefined array key "system" in C:\xampp\htdocs\canteenbilling\navbar.php on line 7
+[20-Jun-2022 02:33:36 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\canteenbilling\navbar.php on line 7
+[20-Jun-2022 02:33:36 Asia/Dhaka] PHP Warning:  Undefined array key "login_type" in C:\xampp\htdocs\canteenbilling\navbar.php on line 17
+[20-Jun-2022 02:33:36 Asia/Dhaka] PHP Warning:  Undefined array key "login_type" in C:\xampp\htdocs\canteenbilling\navbar.php on line 25
+[20-Jun-2022 02:33:36 Asia/Dhaka] PHP Warning:  Undefined array key "login_name" in C:\xampp\htdocs\canteenbilling\home.php on line 44
+[20-Jun-2022 02:45:34 Asia/Dhaka] PHP Warning:  Undefined variable $type in C:\xampp\htdocs\canteenbilling\admin_class.php on line 66
+[20-Jun-2022 02:49:04 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(8,9)' at line 1 in C:\xampp\htdocs\canteenbilling\admin_class.php:289
+Stack trace:
+#0 C:\xampp\htdocs\canteenbilling\admin_class.php(289): mysqli->query('DELETE FROM ord...')
+#1 C:\xampp\htdocs\canteenbilling\ajax.php(73): Action->save_order()
+#2 {main}
+  thrown in C:\xampp\htdocs\canteenbilling\admin_class.php on line 289
+[20-Jun-2022 02:50:18 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(7)' at line 1 in C:\xampp\htdocs\canteenbilling\admin_class.php:289
+Stack trace:
+#0 C:\xampp\htdocs\canteenbilling\admin_class.php(289): mysqli->query('DELETE FROM ord...')
+#1 C:\xampp\htdocs\canteenbilling\ajax.php(73): Action->save_order()
+#2 {main}
+  thrown in C:\xampp\htdocs\canteenbilling\admin_class.php on line 289
+[20-Jun-2022 02:51:03 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(5,6)' at line 1 in C:\xampp\htdocs\canteenbilling\admin_class.php:289
+Stack trace:
+#0 C:\xampp\htdocs\canteenbilling\admin_class.php(289): mysqli->query('DELETE FROM ord...')
+#1 C:\xampp\htdocs\canteenbilling\ajax.php(73): Action->save_order()
+#2 {main}
+  thrown in C:\xampp\htdocs\canteenbilling\admin_class.php on line 289
+[20-Jun-2022 03:08:54 Asia/Dhaka] PHP Warning:  Undefined variable $type in C:\xampp\htdocs\canteenbilling\admin_class.php on line 66
+[20-Jun-2022 03:10:03 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(3)' at line 1 in C:\xampp\htdocs\canteenbilling\admin_class.php:289
+Stack trace:
+#0 C:\xampp\htdocs\canteenbilling\admin_class.php(289): mysqli->query('DELETE FROM ord...')
+#1 C:\xampp\htdocs\canteenbilling\ajax.php(73): Action->save_order()
+#2 {main}
+  thrown in C:\xampp\htdocs\canteenbilling\admin_class.php on line 289
+[20-Jun-2022 03:10:41 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(3,4)' at line 1 in C:\xampp\htdocs\canteenbilling\admin_class.php:289
+Stack trace:
+#0 C:\xampp\htdocs\canteenbilling\admin_class.php(289): mysqli->query('DELETE FROM ord...')
+#1 C:\xampp\htdocs\canteenbilling\ajax.php(73): Action->save_order()
+#2 {main}
+  thrown in C:\xampp\htdocs\canteenbilling\admin_class.php on line 289
+[19-Jun-2022 21:40:18 UTC] PHP Warning:  Module "openssl" is already loaded in Unknown on line 0
+[20-Jun-2022 03:40:18 Asia/Dhaka] PHP Warning:  Undefined global variable $_SESSION in C:\xampp\htdocs\canteenbilling\navbar.php on line 7
+[20-Jun-2022 03:40:18 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\canteenbilling\navbar.php on line 7
+[20-Jun-2022 03:40:18 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\canteenbilling\navbar.php on line 7
+[20-Jun-2022 03:40:18 Asia/Dhaka] PHP Warning:  Undefined global variable $_SESSION in C:\xampp\htdocs\canteenbilling\navbar.php on line 17
+[20-Jun-2022 03:40:18 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\canteenbilling\navbar.php on line 17
+[20-Jun-2022 03:40:18 Asia/Dhaka] PHP Warning:  Undefined global variable $_SESSION in C:\xampp\htdocs\canteenbilling\navbar.php on line 25
+[20-Jun-2022 03:40:18 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\canteenbilling\navbar.php on line 25
+[19-Jun-2022 21:57:41 UTC] PHP Warning:  Module "openssl" is already loaded in Unknown on line 0
+[20-Jun-2022 03:57:41 Asia/Dhaka] PHP Warning:  Undefined global variable $_SESSION in C:\xampp\htdocs\canteenbilling\home.php on line 44
+[20-Jun-2022 03:57:41 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\canteenbilling\home.php on line 44
+[20-Jun-2022 04:33:33 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(11,12)' at line 1 in C:\xampp\htdocs\canteenbilling\admin_class.php:289
+Stack trace:
+#0 C:\xampp\htdocs\canteenbilling\admin_class.php(289): mysqli->query('DELETE FROM ord...')
+#1 C:\xampp\htdocs\canteenbilling\ajax.php(73): Action->save_order()
+#2 {main}
+  thrown in C:\xampp\htdocs\canteenbilling\admin_class.php on line 289
